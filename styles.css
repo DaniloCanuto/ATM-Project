@@ -1,0 +1,28 @@
+
+
+  form {
+    color: white;
+    margin: 10px;
+    width: 350px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: darkgreen;
+    border: 6px solid gold;
+  }
+
+  select {
+    color: black;
+    font-weight: bold;
+    background-color: gold;
+    border: 6px solid white;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 150px;
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  label {
+    color: white;
+  }
