@@ -5,6 +5,6 @@ In this exercise, the objective was to add a menu to select deposit, cash back o
 
 Future Improvements: To add a bank statement report with the last transactions.
 
-Usage: Practice using State in React, adding validation and modifying user interface. also, practicing design improvements by utilizing CSS. 
+Usage: Practice using State in React, adding validation and modifying user interface. Also, practicing design improvements with CSS. 
 
 Licenced by MIT 'Full Stack Development with MERN program for educational purposes only.
